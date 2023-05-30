@@ -1,4 +1,4 @@
-## БОТ БАЙТЕР | BITE BOT
+## БОТ ПЕЧАТНИК | TYPE BOT
 
 <picture>
   <img width=50% height=50% alt="" src="https://i.imgur.com/W0yyd90.jpeg">
