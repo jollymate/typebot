@@ -11,7 +11,7 @@ chance = list(range(1, 2))
 app = Client(
     name="alice",
     api_id=api_id,
-    api_hash=api_id
+    api_hash=api_hash
 )
 asnwers = [
     'Да блин, опять сбилась!',
