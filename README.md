@@ -4,8 +4,6 @@
   <img width=50% height=50% alt="" src="https://i.imgur.com/W0yyd90.jpeg">
 </picture>
 <br>
-Подпишись на наш телеграм https://t.me/holey_moon
-<br>
 
 ### УСТАНОВКА
 Устанавливаем модуль pyrogram
